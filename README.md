@@ -22,4 +22,4 @@ Please commit and manage branches as you wish, as long as you keep the following
 Feel free to use the folder `Functionnal` to put any raw code snippet such as `Examples` or `Main` classes.
 Please also reserve the folder `Units` for tests files using Fraweworks such as JUnit or others.
 
-Again feel free to make changes as you like !
+Again feel free to make any changes as you like !
