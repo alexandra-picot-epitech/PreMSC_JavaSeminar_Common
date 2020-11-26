@@ -2,9 +2,13 @@ public class Test {
 
     public static void main(String[] args) {
         Animal isidore = new Animal ("Isidore", 4, Animal.Type.FISH);
+        Animal idore = new Animal ("Isidore", 4, Animal.Type.FISH);
+        Animal dore = new Animal ("Isidore", 4, Animal.Type.MAMMAL);
         System.out.println(isidore.getName() + " has " + isidore.getLegs()
                 + " legs and is a " + isidore.getType());
         Animal.getNumberOfMammals();
+        Animal.getNumberOfFish();
+        Animal.getNumberOfBirds();
 
         Cat sidore = new Cat ("Isidore", "orange") ;
         System.out.println(sidore.getName() + " has " + sidore.getLegs()
