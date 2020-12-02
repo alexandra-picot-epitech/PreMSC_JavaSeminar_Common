@@ -1,12 +1,12 @@
 # PreMSC Java Seminar Common
 
-Share Java code snippets, functionnal main(s) and units tests for testing EPITECH's Java Seminar projetcs.
+Share Java code snippets, functionnal main(s) and units tests for testing EPITECH's Java Seminar projects.
 Propose and commit as many ideas as you have !
 
 ## Units Testing
 
-For Units Tests: links to downloads & installation procedures, documentation or tutorials for Units Tests Framworks are appreciated.
-Feel free to add one or several new `.md` file for that purpose if you want to :)
+Links to download & installation procedures, documentation or tutorials for Units Tests Frameworks are appreciated.
+Feel free to add one or several new `.md` file for that purpose, in a folder named `docs`, if you want to :)
 
 ## Repo Structure
 
@@ -19,7 +19,7 @@ Please commit and manage branches **as you wish**, as long as you keep the follo
 >   - ...
 > - ...
  
-Feel free to use the folder `Functionnal` to put any raw code snippet such as `Examples` or `Main` classes.
-Please also reserve the folder `Units` for tests files using Fraweworks such as JUnit or others.
+Feel free to use the folder `Functionnal` to put any raw code snippet, such as `Example` or `Main` classes.
+Please also reserve the folder `Unit` for tests files using Frameworks such as JUnit or others.
 
 *Again feel free to make any changes as you like !*
